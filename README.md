@@ -1,5 +1,5 @@
-I am a Software Developer 💻<br>
-and Tech Blogger 🖋<br>
-from Melbourne, Australia 🇦🇺
+# I am a [Software Developer 💻](https://gavindou.ch/)<br>and [Tech Blogger 🖋](https://gavindou.ch/blog)<br>from [Melbourne, Australia 🇦🇺](https://en.wikipedia.org/wiki/Melbourne)
 
-Visit [my website](https://gavindou.ch)!
+I am a self-taught full-stack programmer who's interested in all things tech. I am currently completing the last year of my Bachelor of Computer Science (Advanced Computer Science) degree.
+
+If you have any interest in one of my projects, have a question, or just want to chat, please get in touch!
