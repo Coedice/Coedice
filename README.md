@@ -1,4 +1,4 @@
-# I am a [Software Developer 💻](https://gavindou.ch/)<br>and [Tech Blogger 🖋](https://gavindou.ch/blog)<br>from [Melbourne, Australia 🇦🇺](https://en.wikipedia.org/wiki/Melbourne)
+# I am a [Software Developer 💻](https://gavindou.ch/)<br>and [Tech Blogger 🖋](https://gavindou.ch/blog)<br>from [Melbourne 🇦🇺](https://en.wikipedia.org/wiki/Melbourne)
 
 I am a self-taught full-stack programmer who's interested in all things tech. I have recently completed my Bachelor of Computer Science course, specialising in Advanced Computer Science, with a minor in Cybersecurity.
 
